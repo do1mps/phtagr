@@ -11,6 +11,10 @@ You can run phtagr on your own hardware to have full control about your
 pictures, photos, and videos. Use the photo gallery at home or in the cloud. All
 you need is a webserver with PHP and mysql.
 
+This is not the original PHTagr, this is a try for forking a new Version
+which works with new PHP and modern UI.
+
+Please take advantage of original PHTagr from xemle, to find at these URLs:
 For more details please visit following sites
 
 Main page
