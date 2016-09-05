@@ -1,1 +1,0 @@
-<?php /* dummy captcha file */ ?>
