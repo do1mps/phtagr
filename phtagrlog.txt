@@ -77,3 +77,11 @@
 2016-09-16T21:39:38: DB-Verbindung zu localhost:phtagr erfolgreich!
 2016-09-16T21:43:05: Index.php called
 2016-09-16T21:43:05: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-27T21:46:34: Index.php called
+2016-09-27T21:46:34: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-27T21:46:45: Index.php called
+2016-09-27T21:46:45: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-27T21:47:12: Index.php called
+2016-09-27T21:47:12: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-27T21:47:13: Index.php called
+2016-09-27T21:47:13: DB-Verbindung zu localhost:phtagr erfolgreich!
