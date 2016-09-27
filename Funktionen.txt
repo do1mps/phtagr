@@ -1,0 +1,29 @@
+Abhängigkeiten:
+
+Bild (n:n) Schlüsselwörter
+Bild (n:n) Kategorieen
+
+Klick auf ein Schlüsselwort fügt dieses in den Filter hinzu.
+Klick auf eine Kategorie fügt diese in den Filter hinzu.
+
+
+
+Filter:
+Ist kein Schlüsselwort gespeichert, greifen alle
+Ist ein Schlüsselwort gespeichert, nur die gewählten
+Das selbe bei Kategorieen
+Uhrzeit: Anklicken, Filter wird auf EIN TAG gestellt.
+Weitere Filter beachten, die bei phtagr v2.3 bereits im Umfang waren!
+
+Filter-Editor-Dialog (neu):
+Von/Bis Datum/Uhrzeit auswählbar
+Schlüsselwörter entfernen, hinzufügen
+Kategorieen entfernen, hinzufügen
+
+
+Neue Seite:
+Bild Taggen (Linke Seite Liste aller Kategorieen
+		mitte Bild, groß
+	     Rechte Seite Liste aller Schlüsselwörter)
+   => Beide Listen mit Suchfeld oben, jeder Tastenanschlag filtert die Liste nach %(inputfeld)%
+

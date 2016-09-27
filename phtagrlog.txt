@@ -1,0 +1,79 @@
+2016-09-14T21:32:53: Index.php called
+2016-09-14T21:32:54: Index.php called
+2016-09-14T21:43:28: Index.php called
+2016-09-14T21:44:10: Index.php called
+2016-09-14T21:44:10: DB-Verbindung zu localhost:phtagr Fehlerhaft! (1045) Access denied for user 'phtagr_1'@'localhost' (using password: YES)
+2016-09-14T21:47:37: Index.php called
+2016-09-14T21:47:38: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-15T18:10:36: Index.php called
+2016-09-15T18:10:36: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-15T18:22:10: Index.php called
+2016-09-15T18:22:10: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-15T18:22:12: Index.php called
+2016-09-15T18:22:12: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-15T20:52:55: Index.php called
+2016-09-15T20:52:55: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:18:45: Index.php called
+2016-09-16T21:18:45: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:19:02: Index.php called
+2016-09-16T21:19:02: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:19:03: Index.php called
+2016-09-16T21:19:03: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:19:03: Index.php called
+2016-09-16T21:19:03: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:19:30: Index.php called
+2016-09-16T21:19:30: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:36:12: Index.php called
+2016-09-16T21:36:12: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:36:16: Index.php called
+2016-09-16T21:36:16: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:36:17: Index.php called
+2016-09-16T21:36:17: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:36:17: Index.php called
+2016-09-16T21:36:17: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:36:18: Index.php called
+2016-09-16T21:36:18: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:36:18: Index.php called
+2016-09-16T21:36:18: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:36:19: Index.php called
+2016-09-16T21:36:19: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:37:35: Index.php called
+2016-09-16T21:37:35: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:37:36: Index.php called
+2016-09-16T21:37:36: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:37:36: Index.php called
+2016-09-16T21:37:36: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:37:37: Index.php called
+2016-09-16T21:37:37: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:37:37: Index.php called
+2016-09-16T21:37:37: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:37:37: Index.php called
+2016-09-16T21:37:37: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:37:37: Index.php called
+2016-09-16T21:37:37: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:37:37: Index.php called
+2016-09-16T21:37:37: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:37:54: Index.php called
+2016-09-16T21:37:54: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:37:55: Index.php called
+2016-09-16T21:37:55: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:37:56: Index.php called
+2016-09-16T21:37:56: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:37:56: Index.php called
+2016-09-16T21:37:56: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:37:56: Index.php called
+2016-09-16T21:37:56: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:37:56: Index.php called
+2016-09-16T21:37:56: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:37:56: Index.php called
+2016-09-16T21:37:56: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:37:57: Index.php called
+2016-09-16T21:37:57: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:37:57: Index.php called
+2016-09-16T21:37:57: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:37:57: Index.php called
+2016-09-16T21:37:57: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:39:38: Index.php called
+2016-09-16T21:39:38: DB-Verbindung zu localhost:phtagr erfolgreich!
+2016-09-16T21:43:05: Index.php called
+2016-09-16T21:43:05: DB-Verbindung zu localhost:phtagr erfolgreich!

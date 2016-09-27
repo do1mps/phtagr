@@ -34,7 +34,7 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li id="phtagr.menu.button.home" class="active phtagr.menu.button"><div id="phtagr.menu.text.home">Home</div></li>
+            <li id="phtagr.menu.button.home" class="phtagr.menu.button"><div id="phtagr.menu.text.home">Home</div></li>
             <li id="phtagr.menu.button.explorer" class="phtagr.menu.button"><div id="phtagr.menu.text.explorer">Explorer</div></li>
             <li id="phtagr.menu.button.mb3" class="phtagr.menu.button"><div id="phtagr.menu.text.mb3">MenuButton3</div></li>
           </ul>
@@ -47,30 +47,34 @@
               </form>
             </li>
             <li id="phtagr.menu.button.login" class="phtagr.menu.button"><div id="phtagr.menu.text.login">Login</div></li>
+            <li id="phtagr.menu.button.impressum" class="active phtagr.menu.button"><div id="phtagr.menu.text.impressum">Impressum</div></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
     </nav>
 
+    <!-- Pagination / Filter Bar -->
+    <nav class="navbar navbar-fixed second-navbar">
+      <div class="container footer-container">
+        <ul class="nav navbar-nav second-navbar">
+          <li><div aria-label="Previous" id="phtagr.pagination.prev" class="phtagr.pagination.button"><span class="glyphicon glyphicon-backward" aria-hidden="true"></span></div></li>
+          <li><div aria-label="Page 1"   id="phtagr.pagination.1"    class="phtagr.pagination.button">1 </div></li>
+          <li><div aria-label="Page 2"   id="phtagr.pagination.2"    class="phtagr.pagination.button">2 </div></li>
+          <li><div aria-label="Page 3"   id="phtagr.pagination.3"    class="phtagr.pagination.button">3 </div></li>
+          <li><div aria-label="Page 4"   id="phtagr.pagination.4"    class="phtagr.pagination.button">4 </div></li>
+          <li><div aria-label="Page 5"   id="phtagr.pagination.5"    class="phtagr.pagination.button">5 </div></li>
+          <li><div aria-label="Next"     id="phtagr.pagination.next" class="phtagr.pagination.button"><span class="glyphicon glyphicon-forward" aria-hidden="true"></span></div></li>
+        </ul>
+        <ul class="nav navbar-nav second-navbar">
+          <li><div aria-label="Active Filter" id="phtagr.submenu.activefilter" class="phtagr.pagination.filterline">Filter: keiner</div></li>
+        </ul>
+      </div>
+    </nav>
 
-<!-- CONTENT -->
 
-<!-- footer-Bar -->
-<nav class="navbar navbar-default navbar-fixed-bottom">
-  <div class="container footer-container">
-    <ul class="nav navbar-nav pagination">
-      <li><div aria-label="Previous" id="phtagr.pagination.prev" class="phtagr.menu.button"><span class="glyphicon glyphicon-backward" aria-hidden="true"></span></div></li>
-      <li class="active"><div id="phtagr.pagination.1" class="phtagr.menu.button">1 <span class="sr-only">(current)</span></div></li>
-      <li class=""><div id="phtagr.pagination.2" class="phtagr.menu.button">2 <span class="sr-only"></span></div></li>
-      <li class=""><div id="phtagr.pagination.3" class="phtagr.menu.button">3 <span class="sr-only"></span></div></li>
-      <li class=""><div id="phtagr.pagination.4" class="phtagr.menu.button">4 <span class="sr-only"></span></div></li>
-      <li class=""><div id="phtagr.pagination.next" aria-label="Next" class="phtagr.menu.button"><span class="glyphicon glyphicon-forward" aria-hidden="true"></span></div></li>
-    </ul>
-    <ul class="nav navbar-nav navbar-right">
-      <li id="phtagr.menu.button.impressum" class="active phtagr.menu.button"><div id="phtagr.menu.text.impressum">Impressum</div></li>
-    </ul>
-  </div>
-</nav>
+
+    <!-- CONTENT -->
+
 
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
